@@ -1,0 +1,5 @@
+package com.farooq.grab
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity()
